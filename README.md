@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi! I’m [Your Name], diving into Data Science and Machine Learning with a background in Computer Science. I’m passionate about exploring the potential of data-driven solutions and continuously learning new techniques and algorithms. I’m eager to collaborate with experienced professionals and fellow enthusiasts to solve real-world problems and innovate together. Whether it’s contributing to open-source projects, brainstorming new ideas, or learning from each other’s experiences, I’m excited to connect and grow within this vibrant community. Check out my projects and let’s turn data into actionable insights! 🚀
+👋 Hi! I’m EXC, diving into Data Science and Machine Learning with a background in Computer Science. I’m passionate about exploring the potential of data-driven solutions and continuously learning new techniques and algorithms. I’m eager to collaborate with experienced professionals and fellow enthusiasts to solve real-world problems and innovate together. Whether it’s contributing to open-source projects, brainstorming new ideas, or learning from each other’s experiences, I’m excited to connect and grow within this vibrant community. Check out my projects and let’s turn data into actionable insights! 🚀
 
 
 # 💻 Tech Stack:
